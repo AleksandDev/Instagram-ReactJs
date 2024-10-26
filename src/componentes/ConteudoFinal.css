@@ -1,0 +1,57 @@
+.ConteudoFinal {
+    background-color: rgb(255, 255, 255);
+    height: 80vh;
+    margin: 1px;
+    border-radius: 10px;
+    width: 30%;
+}
+.Post-name p{
+    margin: 20px 10px;
+    font-size: 20px;
+}
+.Post-avatar img{
+    max-width: 60px;
+    max-height: 60px;
+    border-radius: 60px;
+    padding: 3px;
+    
+}
+.ContaPrincipal {
+    display: flex;
+    align-self: center;
+    margin: 5px;
+    background-color: rgb(255, 251, 251);
+    padding: 5px;
+    border-radius: 10px;
+    max-width: 400px;
+    transform: translate(0px, 25px);
+}
+.Conta {
+    display: flex;
+    align-self: center;
+    margin: 5px;
+    background-color: rgb(255, 254, 254);
+    padding: 5px;
+    border-radius: 10px;
+    max-width: 400px;
+    transform: translate(0px, 50px);
+}
+h3 {
+    font-size: 20px;
+    margin-left: 20px;
+    color: rgb(133, 133, 133);
+    transform: translate(-7px, 40px);
+}
+.Follow, .Switch {
+    margin-left: auto;
+    margin-top: 20px;
+    font-size: 20px;
+    padding-right: 20px;
+}
+.Follow a, .Switch a{
+    text-decoration: none;
+    color: #4285F4;
+}
+
+
+

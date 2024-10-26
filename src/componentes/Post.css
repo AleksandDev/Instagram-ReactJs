@@ -1,0 +1,49 @@
+.Post-cabecalho {
+    display: flex;
+    text-align: center;
+}
+.Post-cabecalho .Post-name p{
+    margin: 20px 5px;
+    font-size: 20px;
+}
+.Post-cabecalho .Post-avatar img{
+    max-width: 50px;
+    max-height: 50px;
+    border-radius: 50px;
+    padding: 3px;
+    background: linear-gradient(#c82d8e, #f99d4c);
+}
+.Post-cabecalho{
+    padding: 5px;
+}
+.Post-conteudo img{
+    margin: 5px;
+    width: 100%;
+    height: 100%;
+}
+.Post-conteudo {
+    display: flex;
+    justify-content: center;
+}
+.Post-rodape {
+    display: flex;
+    padding: 7px;
+}
+.Post-rodape div{
+    margin-right: 10px;
+}
+.Post a {
+    color: black;
+    font-size: 40px;
+}
+.Post {
+    margin-top: 15px;
+    max-height: 83%;
+    background-color: rgb(255, 254, 254);
+}
+
+.Post-coment {
+    font-size: 20px;
+    color: rgb(133, 133, 133);
+    transform: translate(10px);
+}
